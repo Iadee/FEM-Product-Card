@@ -32,12 +32,11 @@ Users should be able to:
 
 ### Screenshot
 
-
+![screenshot](screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - [Live Site URL](https://6407cbb9005808214e69864c--fascinating-praline-607bb9.netlify.app/)
 
 
